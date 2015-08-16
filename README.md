@@ -3,4 +3,7 @@ pantalla2android
 
 proyecto personal
 
-este es un proyecto que tengo en mente realizar para propositos personales como lo es entender la presente plataforma de repositorios ademas de conseguir el codigo fuente de una libreria en google codes
+con este proyecto busco la manera de realizar un screen shariing entre un pc y un celular android, 
+buscando disminuir la la sobecarga de codigo innecesario que esta presente en las alternatvas del 
+mercado y que reducen el rendimiento de de los fps que a ultimas cuentas es el punto clave en una
+aplicacion del tipo screen sharing
